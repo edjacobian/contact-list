@@ -1,5 +1,5 @@
 import React from "react";
-import ContactList from './components/ContactList';
+import ContactList from './ContactList';
 
 export default function ContactRow({ contact }) {
   return (
